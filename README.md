@@ -1,62 +1,60 @@
-Hi there, I'm Milankumar Mavani! 👋
+# 👋 Hi, I'm Milankumar Mavani!
 
-🚀 About Me
+## 🔹 About Me
+I'm a Master's student in Automation & IT at Technische Hochschule Köln, passionate about renewable energy, industrial automation, and data analytics. With experience in electrical engineering, machine learning, and energy systems, I aim to solve complex problems in modern power grids and automation.
 
-I am a dedicated and performance-oriented Service Engineer with 2 years of experience in renewable energy and automation. Currently, I am pursuing my Master of Engineering in Automation & IT at Technische Hochschule Köln, Germany. Passionate about electrical engineering, data analytics, and energy systems, I thrive on solving complex problems in energy systems analysis, grid planning, and future energy solutions.
+- 📍 Based in Gummersbach, Germany  
+- 🎓 **M.Eng. in Automation & IT** (Technische Hochschule Köln)  
+- 🎓 **B.E. in Electrical Engineering** (Shree Swami Atmanand Saraswati Institute of Technology)  
+- ⚡ Interested in **Energy Systems, Industrial Automation, AI & ML**  
+- 🖥️ Experienced in **Python, MATLAB, Simulink, OpenModelica, TwinCAT, Node-RED**  
+- 🔋 Working on **Energy system optimization, AI-driven grid planning & industrial automation**  
+- 🌱 Passionate about **sustainable energy solutions & smart automation**  
 
-🔧 Skills & Technologies
+---
 
-Programming & Data Science: Python, TensorFlow, PyTorch, MATLAB, Simulink, Scikit-learn, Pandas, NumPy
+## 🛠️ Technical Skills
+- **Programming:** Python, MATLAB, Simulink, Node.js, SQL  
+- **AI & ML:** PyTorch, TensorFlow, Scikit-learn, Decision Trees  
+- **Embedded & Industrial Automation:** Beckhoff TwinCAT, PLC, SCADA, ROS2  
+- **Cloud & Databases:** InfluxDB, MQTT, REST API  
+- **Version Control:** Git, GitHub, GitLab  
 
-Industrial Automation: Beckhoff TwinCAT, Ladder Logic, MQTTX, Mosquitto, Node.js, Node-RED
+---
 
-Energy Systems: Power systems, Smart Grid, Renewable Energy Integration, FACTS Devices, HVDC Power Systems
+## 🚀 Key Projects
+### 🔹 Data Optimization for Renewable Energy Systems
+- Developed machine learning-based data filtering & missing data prediction  
+- Implemented decision tree models using **PyTorch**  
 
-Embedded & Control Systems: Raspberry Pi, Arduino, ROS2, Image Processing
+### 🔹 Cyber-Physical Energy Management System
+- Built an AI-based load prediction system  
+- Integrated **real-time energy monitoring** with **InfluxDB & Python**  
 
-Software & Tools: DataGrip, ERP, MS Office, Wireshark, UniSim
+### 🔹 Physics-Informed Neural Networks for Automotive Industry
+- Used **RNN, GRU, LSTM, and Transformers** to optimize turbocharger performance  
+- Implemented model evaluation using **TensorFlow & Scikit-learn**  
 
-💼 Experience
+### 🔹 Autonomous Robot Navigation (ROS2)
+- Developed navigation stack with **Raspberry Pi & Arduino**  
+- Implemented **image processing & real-time sensor integration**  
 
-Service Engineer @ True Blue Technologies, India (Jan 2021 - Dec 2021)
+---
 
-Installed and maintained control panels in industrial processes
+## 🌍 Languages
+- **English:** Fluent  
+- **German:** Intermediate (B1)  
+- **Gujarati & Hindi:** Native  
 
-Led a team of 8 employees
+---
 
-Designed and troubleshooted APFC, MCC, PCC panels
+## 📬 Connect with Me
+📧 Email: milanmavani08@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/milan-mavani-b06ba2139](http://www.linkedin.com/in/milan-mavani-b06ba2139)  
 
-Project Manager @ Power Touch, India (Jan 2022 - Feb 2023)
+---
 
-Led a team of 6 for solar rooftop module installation
+## 🤝 Let's Collaborate!
+I'm always excited to work on projects related to **renewable energy, AI-driven automation, and industrial systems**. Feel free to reach out! 🚀  
 
-Developed a data-driven model for industrial load consumption analysis
-
-Implemented machine learning techniques for load forecasting
-
-📚 Research & Projects
-
-Data Optimization & Missing Data Prediction using Decision Trees & PyTorch
-
-Neural Network-based Prediction for Turbocharger Systems in the automotive industry
-
-Visual Guidance System for autonomous robot car using ROS2, Raspberry Pi, and Arduino
-
-SCADA-based Communication Protocols & IEC 61850 for power grid automation
-
-🌍 Languages
-
-English: Fluent
-
-German: Intermediate
-
-Hindi & Gujarati: Fluent
-
-📫 Connect with Me
-
-LinkedIn: Milan Mavani
-
-Email: milanmavani08@gmail.com
-
-⭐ Feel free to check out my repositories and projects. Always open for collaborations in the fields of automation, energy systems, and AI/ML applications! 🚀
-
+*"Innovation in energy & automation is the key to a sustainable future."*

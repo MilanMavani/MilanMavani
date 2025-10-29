@@ -56,3 +56,4 @@ I'm a Master's student in Automation & IT at Technische Hochschule Köln, passio
 I'm always excited to work on projects related to **Power System Designe, Planning, Stability Analysis,  AI-driven automation and Optimization of system**. Feel free to reach out! 🚀  
 
 *"Innovation in energy & automation is the key to a sustainable future."*
+## working with SMA Altenso Gmbh
